@@ -22,5 +22,3 @@ frontend https_front
 backend http_back
     server 282124 web-01 54.172.30.233:80 check
     server 282124 web-02 54.157.138.53:80 check
-
-    
