@@ -2,7 +2,7 @@
 #SSH client configuration
 
 Host *
-    IdentityFile ~/.ssh/school
+    IdentityFile ~/.ssh/id_rsa
     PasswordAuthentication no
     SendEnv LANG LC_*
     HashKnownHosts yes 
